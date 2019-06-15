@@ -1,6 +1,4 @@
-# UT-Data-Analytics
-
-Pandas Analysis of Video Game Purchases
+#Pandas Analysis of Video Game Purchases
 
 Of the 1163 active players, the vast majority are male (84%). Proportion of female players comprises small minority (14%).
 
@@ -13,3 +11,4 @@ Players between 20-24 purchase totals more than double any other age group.
 $18.96 was the most any one player spent on video games
 
 
+#Various groupings and calculations including gender, purchase amounts, averages, total revenue, etc.
